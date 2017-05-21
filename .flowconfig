@@ -1,5 +1,6 @@
 [ignore]
 .*/node_modules/eslint-plugin-jsx-a11y/.*
+.*/node_modules/jss/.*
 
 [options]
 suppress_comment= \\(.\\|\n\\)*\\flow-disable-next-line
